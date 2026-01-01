@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Harsh Kumar Pandit
+# 👋 Hi, I'm Harsh Kumar Pandit B-Tech
 
 ### 💻 Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 
@@ -146,3 +146,4 @@ const harsh = {
 ⭐️ From [Harsh-Kumar-Pandit](https://github.com/Harsh-Kumar-Pandit)
 
 </div>
+
