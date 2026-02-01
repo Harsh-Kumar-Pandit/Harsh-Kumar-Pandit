@@ -71,34 +71,41 @@ I'm a **3rd Year BTech Computer Science Engineering** student passionate about b
 
 ## 🌟 Featured Projects
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+</div>
+
+### 🛒 [E-commerce Platform](https://github.com/Harsh-Kumar-Pandit/E-commerce)
+A fully functional e-commerce website with product listings, shopping cart, and checkout system.
+- **Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- **Features:** Product catalog, cart management, user authentication, order processing
+- **Highlights:** Responsive design, secure payment integration, real-time inventory
+- **Key Learnings:** State management, RESTful API integration, payment gateway implementation
+
+### 📚 [Course Selling Platform](https://github.com/Harsh-Kumar-Pandit/course-selling-)
+An online learning platform where instructors can create and sell courses to students.
+- **Tech Stack:** MongoDB, Express.js, React.js, Node.js, JavaScript
+- **Features:** Course creation & management, enrollment system, progress tracking, video content
+- **Purpose:** Educational technology, empowering online learning
+- **Achievements:** Multi-user authentication, dynamic course catalog
+
 ### 🧘 [Sukoon - Mental Wellness Platform](https://github.com/Harsh-Kumar-Pandit/Sukoon-repo)
 A comprehensive mental wellness application designed to provide resources and support for mental health.
 - **Tech Stack:** MongoDB, Express.js, React.js, Node.js
-- **Features:** Mental health resources, support system, wellness tracking
+- **Features:** Mental health resources, support system, wellness tracking, community support
+- **Impact:** Promoting mental health awareness and providing accessible resources
 - **Status:** Active Development
 
 ### 🍽️ [EatEasy - Food Ordering Platform](https://github.com/Harsh-Kumar-Pandit/EatEasy)
 A modern food ordering platform with seamless user experience and efficient order management.
 - **Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - **Features:** User authentication, menu management, order tracking, payment integration
-- **Highlights:** Real-time order updates, responsive design
-
-### 🛒 [E-commerce Platform](https://github.com/Harsh-Kumar-Pandit/E-commerce)
-A fully functional e-commerce website with product listings, shopping cart, and checkout system.
-- **Tech Stack:** MERN Stack
-- **Features:** Product catalog, cart management, user authentication, order processing
-- **Key Learnings:** State management, API integration, payment gateway
-
-### 📚 [Course Selling Platform](https://github.com/Harsh-Kumar-Pandit/course-selling-)
-An online learning platform where instructors can create and sell courses to students.
-- **Tech Stack:** MongoDB, Express.js, React.js, Node.js, JavaScript
-- **Features:** Course creation, enrollment system, progress tracking
-- **Purpose:** Educational technology, skill development
-
-### ⚛️ [React.js Practice Repository](https://github.com/Harsh-Kumar-Pandit/React.js)
-A collection of React.js projects and practice implementations to master frontend development.
-- **Focus:** React fundamentals, hooks, state management, component architecture
-- **Learning:** Advanced React patterns, performance optimization
+- **Highlights:** Real-time order updates, responsive design, restaurant dashboard
+- **Innovation:** Streamlined food delivery experience
 
 ---
 
@@ -167,11 +174,9 @@ Applying data structures and algorithms to solve complex problems
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-kumar-pandit)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harsh_pandit)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshpandit@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-Kumar-Pandit)
+
+**Feel free to explore my repositories and connect!**
 
 </div>
 
@@ -221,8 +226,97 @@ Applying data structures and algorithms to solve complex problems
 
 <div align="center">
 
-[![E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Kumar-Pandit&repo=E-commerce&theme=tokyonight&hide_border=true)](https://github.com/Harsh-Kumar-Pandit/E-commerce)
-[![Course Selling](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Kumar-Pandit&repo=course-selling-&theme=tokyonight&hide_border=true)](https://github.com/Harsh-Kumar-Pandit/course-selling-)
+<table>
+<tr>
+<td width="50%" align="center">
+  
+### 🛒 E-commerce Platform
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
+  
+**Full-stack online shopping platform**
+
+🔹 Product catalog & cart management  
+🔹 User authentication & authorization  
+🔹 Secure payment integration  
+🔹 Real-time inventory tracking  
+
+**Tech:** MERN Stack
+
+[![View Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-Kumar-Pandit/E-commerce)
+
+</td>
+<td width="50%" align="center">
+
+### 📚 Course Selling Platform
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
+  
+**Online learning & course marketplace**
+
+🔹 Course creation & management  
+🔹 Student enrollment system  
+🔹 Progress tracking dashboard  
+🔹 Video content delivery  
+
+**Tech:** MERN Stack
+
+[![View Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-Kumar-Pandit/course-selling-)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🧘 Sukoon
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
+  
+**Mental wellness support platform**
+
+🔹 Mental health resources  
+🔹 Community support system  
+🔹 Wellness tracking features  
+🔹 Professional guidance  
+
+**Tech:** MERN Stack
+
+[![View Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-Kumar-Pandit/Sukoon-repo)
+
+</td>
+<td width="50%" align="center">
+
+### 🍽️ EatEasy
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
+  
+**Food ordering & delivery platform**
+
+🔹 Restaurant menu management  
+🔹 Real-time order tracking  
+🔹 User authentication  
+🔹 Payment gateway integration  
+
+**Tech:** MERN Stack
+
+[![View Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-Kumar-Pandit/EatEasy)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -238,16 +332,6 @@ Applying data structures and algorithms to solve complex problems
 
 ---
 
-## 📚 Latest Blog Posts & Learning
-<!-- BLOG-POST-LIST:START -->
-- Learning advanced React patterns and performance optimization
-- Exploring system design principles for scalable applications
-- Deep diving into MongoDB aggregation pipelines
-- Mastering DSA for technical interviews
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -258,13 +342,6 @@ Applying data structures and algorithms to solve complex problems
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced React Patterns (Custom Hooks, Context API, Performance Optimization)
@@ -272,16 +349,6 @@ Applying data structures and algorithms to solve complex problems
 - Data Structures & Algorithms
 - Docker & Containerization
 - Cloud Deployment (AWS/Vercel)
-
----
-
-## 📫 How to Reach Me
-
-- 💼 LinkedIn: [Connect with me professionally](https://linkedin.com/in/harsh-kumar-pandit)
-- 📧 Email: harshpandit@example.com
-- 🐦 Twitter: Stay updated with my journey
-- 💻 Portfolio: Check out my work
-- 📍 Location: India
 
 ---
 
@@ -297,12 +364,6 @@ Applying data structures and algorithms to solve complex problems
 **"Building the future, one commit at a time!"** 🚀
 
 </div>
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
