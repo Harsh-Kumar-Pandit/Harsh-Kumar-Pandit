@@ -246,7 +246,7 @@ Applying data structures and algorithms to solve complex problems
 
 **Tech:** MERN Stack
 
-[![View Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-Kumar-Pandit/E-commerce)
+[![View Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-Kumar-Pandit/E-commerce-backend)
 
 </td>
 <td width="50%" align="center">
@@ -376,3 +376,4 @@ Applying data structures and algorithms to solve complex problems
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
+
