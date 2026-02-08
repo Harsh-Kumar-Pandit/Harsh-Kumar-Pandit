@@ -55,20 +55,6 @@ I'm a **3rd Year BTech Computer Science Engineering** student passionate about b
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-Kumar-Pandit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Kumar-Pandit&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Kumar-Pandit&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -136,12 +122,6 @@ const harsh = {
     funFact: "I turn coffee into code! ☕️→💻"
 };
 ```
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Kumar-Pandit&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -376,4 +356,5 @@ Applying data structures and algorithms to solve complex problems
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
+
 
