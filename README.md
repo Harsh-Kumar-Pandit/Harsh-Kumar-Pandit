@@ -190,12 +190,7 @@ const harsh = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
   
-**Full-stack online shopping platform**
-
-🔹 Product catalog & cart management  
-🔹 User authentication & authorization  
-🔹 Secure payment integration  
-🔹 Real-time inventory tracking  
+**Full-stack online shopping  platform**
 
 **Tech:** MERN Stack
 
@@ -212,11 +207,6 @@ const harsh = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
   
 **Online learning & course marketplace**
-
-🔹 Course creation & management  
-🔹 Student enrollment system  
-🔹 Progress tracking dashboard  
-🔹 Video content delivery  
 
 **Tech:** MERN Stack
 
@@ -235,12 +225,7 @@ const harsh = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
   
-**Mental wellness support platform**
-
-🔹 Mental health resources  
-🔹 Community support system  
-🔹 Wellness tracking features  
-🔹 Professional guidance  
+**Mental wellness support platform** 
 
 **Tech:** MERN Stack
 
@@ -258,11 +243,6 @@ const harsh = {
   
 **Food ordering & delivery platform**
 
-🔹 Restaurant menu management  
-🔹 Real-time order tracking  
-🔹 User authentication  
-🔹 Payment gateway integration  
-
 **Tech:** MERN Stack
 
 [![View Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-Kumar-Pandit/EatEasy)
@@ -270,16 +250,6 @@ const harsh = {
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-Kumar-Pandit&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -329,6 +299,7 @@ const harsh = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
+
 
 
 
