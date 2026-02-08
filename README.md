@@ -64,14 +64,6 @@ I'm a **3rd Year BTech Computer Science Engineering** student passionate about b
 
 ## 🌟 Featured Projects
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-</div>
-
 ### 🛒 [E-commerce Platform](https://github.com/Harsh-Kumar-Pandit/E-commerce)
 A fully functional e-commerce website with product listings, shopping cart, and checkout system.
 - **Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
@@ -129,32 +121,6 @@ const harsh = {
     funFact: "I turn coffee into code! ☕️→💻"
 };
 ```
-
----
-
-## 🎯 Skills & Expertise
-
-<div align="center">
-
-### Frontend Development
-Building responsive and interactive user interfaces with modern frameworks
-
-### Backend Development
-Creating robust RESTful APIs and server-side applications
-
-### Database Management
-Designing efficient database schemas and queries with MongoDB
-
-### Version Control
-Managing code repositories and collaborating using Git & GitHub
-
-### Problem Solving
-Applying data structures and algorithms to solve complex problems
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -363,6 +329,7 @@ Applying data structures and algorithms to solve complex problems
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
+
 
 
 
