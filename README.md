@@ -74,7 +74,7 @@
 | Frontend | React.js, Tailwind CSS, CSS, React Router |
 | Admin Panel | React.js, Tailwind CSS, Vite, React Toastify |
 | Backend | Node.js, Express.js, MongoDB, Mongoose |
-| Payments | Stripe, Razorpay |
+| Payments | Stripe |
 | Media | Cloudinary |
 | Auth | JWT, bcrypt |
 
@@ -141,3 +141,4 @@
 📧 harshkumarpandit2004@gmail.com
 
 </div>
+
