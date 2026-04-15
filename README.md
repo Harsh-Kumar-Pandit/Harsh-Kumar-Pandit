@@ -11,90 +11,27 @@
 
 ## 🚀 Featured Projects
 
----
-
-### 🤖 SiteForge — AI Website Builder
-> Describe your website, and SiteForge builds it. Fully functional AI-powered site generator with **live editable code** — no templates, no drag-and-drop, just intelligence.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Harsh-Kumar-Pandit/SiteForge)
-
-**What I built:**
-- 🧠 AI-generated websites from a simple text prompt
-- ✏️ **Live editable code** — tweak the output instantly in-browser
-- ⚡ Built on **Next.js App Router** with TypeScript throughout
-- 🗄️ **Drizzle ORM + PostgreSQL** for persistent project storage
-- 🎨 shadcn/ui components with Tailwind CSS polish
-
-| Layer | Tech |
-|---|---|
-| Framework | Next.js 14 (App Router), TypeScript |
-| Styling | Tailwind CSS, shadcn/ui |
-| Database | PostgreSQL, Drizzle ORM |
-| AI | Gemini / Claude API |
-| Deploy | Vercel |
+**💬 NexChat** — Real-time chat app with DMs, group channels, file sharing & JWT auth
+[GitHub](https://github.com/Harsh-Kumar-Pandit/Nex-Chat-Real-Time-Chatting) · [Live](https://nex-chat-real-time-chatting.vercel.app/chat)
+`React` `Node.js` `Socket.io` `MongoDB` `Zustand`
 
 ---
 
-### 🎯 NexInterview — Live Technical Interview Platform
-> A full-stack platform where interviewers and candidates connect via **live 1-on-1 video calls**, collaborate on a real **VSCode-powered code editor**, and get **instant automated feedback** — all in one seamless session.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Harsh-Kumar-Pandit/NexInterview)
-
-**What I built:**
-- 📹 **Live video calling** between interviewer and candidate using WebRTC
-- 💻 Shared **VSCode-powered Monaco Editor** with real-time code sync
-- 🤖 **Instant AI feedback** on candidate code quality and performance
-- 🔐 Role-based access — separate flows for interviewers and candidates
-- 📋 Session recording and review for post-interview analysis
-
-| Layer | Tech |
-|---|---|
-| Frontend | React.js, CSS |
-| Backend | Node.js, Express.js, Socket.io |
-| Video-chat | Stream, Stream Chat |
-| Code Editor | Monaco Editor (VSCode engine) |
-| Auth | JWT |
+**🛒 E-Commerce Platform** — Full storefront + admin dashboard + REST API with Stripe payments
+[Frontend](https://github.com/Harsh-Kumar-Pandit/E-commerce-frontend) · [Backend](https://github.com/Harsh-Kumar-Pandit/E-commerce-backend) · [Admin](https://github.com/Harsh-Kumar-Pandit/Ecommerce-admin) · [Live](https://e-commerce-frontend-five-khaki.vercel.app/)
+`React` `Node.js` `MongoDB` `Stripe` `Cloudinary`
 
 ---
 
-### 💬 Nex-Chat — Real-Time Messaging App
-> A production-grade full-stack chat application with real-time communication, group channels, file sharing and live updates.
-
-[![Live Demo](https://img.shields.io/badge/🌍_Live_Demo-6e40c9?style=for-the-badge)](https://nex-chat-real-time-chatting.vercel.app/chat)
-[![GitHub](https://img.shields.io/badge/GitHub-Frontend-181717?style=for-the-badge&logo=github)](https://github.com/Harsh-Kumar-Pandit/Nex-Chat-Real-Time-Chatting)
-
-**What I built:**
-- ⚡ Real-time DMs & group channels via **WebSockets (Socket.io)**
-- 📁 File & image sharing with **live upload/download progress**
-- 🔐 JWT auth with secure **HTTP-only cookies**
-- 📱 Fully responsive **mobile-first UI** with Android safe-area support
-- 👤 Profile management with **avatar upload, crop & delete**
-- 🔔 Instant contact list updates — new chats appear **without refresh**
-
-| Frontend | Backend | Database | Auth |
-|---|---|---|---|
-| React.js, Tailwind, Zustand, shadcn/ui | Node.js, Express.js, Socket.io, Multer | MongoDB, Mongoose | JWT, HTTP-only Cookies |
+**🌐 SiteForge** — *(website builder / portfolio generator)*
+[GitHub](https://github.com/Harsh-Kumar-Pandit) · [Live](#)
+`React` `Node.js` `MongoDB`
 
 ---
 
-### 🛒 E-Commerce — Full-Stack Shopping Platform
-> A complete 3-part system: customer storefront, admin dashboard, and REST API — all deployed and live.
-
-[![Live Demo](https://img.shields.io/badge/🌍_Live_Demo-e85d04?style=for-the-badge)](https://e-commerce-frontend-five-khaki.vercel.app/)
-[![Frontend](https://img.shields.io/badge/GitHub-Frontend-181717?style=for-the-badge&logo=github)](https://github.com/Harsh-Kumar-Pandit/E-commerce-frontend)
-[![Backend](https://img.shields.io/badge/GitHub-Backend-181717?style=for-the-badge&logo=github)](https://github.com/Harsh-Kumar-Pandit/E-commerce-backend)
-[![Admin](https://img.shields.io/badge/GitHub-Admin_Panel-181717?style=for-the-badge&logo=github)](https://github.com/Harsh-Kumar-Pandit/Ecommerce-admin)
-
-**What I built:**
-- 🛍️ Product catalog with **filtering, sorting and search**
-- 🖥️ Admin dashboard with **order management & revenue charts**
-- 💳 **Stripe** payment gateway integration
-- 🖼️ **Cloudinary** image uploads with CDN delivery
-- 🔒 JWT + bcrypt authentication
-
-| Frontend | Admin Panel | Backend | Payments |
-|---|---|---|---|
-| React.js, Tailwind, React Router | React.js, Vite, React Toastify | Node.js, Express, MongoDB | Stripe |
+**🎯 NexInterview** — *(AI-powered interview prep platform)*
+[GitHub](https://github.com/Harsh-Kumar-Pandit) · [Live](#)
+`React` `Node.js` `MongoDB`
 
 ---
 
