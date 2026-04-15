@@ -51,7 +51,7 @@
 |---|---|
 | Frontend | React.js, CSS |
 | Backend | Node.js, Express.js, Socket.io |
-| Real-time | WebRTC, Socket.io |
+| Video-chat | Stream, Stream Chat |
 | Code Editor | Monaco Editor (VSCode engine) |
 | Auth | JWT |
 
@@ -133,13 +133,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Kumar-Pandit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Kumar-Pandit&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
----
 
 > *"Every bug you fix makes you a better developer. Every bug you ship makes you humble."*
 
