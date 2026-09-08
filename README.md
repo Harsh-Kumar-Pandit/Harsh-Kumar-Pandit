@@ -10,7 +10,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-harsh.dev-D4A574?style=for-the-badge&labelColor=0d1117)](https://harsh.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-harsh--portfolio--nu--inky.vercel.app-D4A574?style=for-the-badge&labelColor=0d1117)](https://harsh-portfolio-nu-inky.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-22D3EE?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=22D3EE)](mailto:harshkumarpandit2004@gmail.com)
 
 </div>
@@ -144,6 +144,6 @@ Live technical interview platform — video calls, in-browser code execution, AI
 
 <div align="center">
 
-📫 **[harsh.dev](https://harsh.dev)** · **[harshkumarpandit2004@gmail.com](mailto:harshkumarpandit2004@gmail.com)**
+📫 **[Portfolio](https://harsh-portfolio-nu-inky.vercel.app/)** · **[harshkumarpandit2004@gmail.com](mailto:harshkumarpandit2004@gmail.com)**
 
 </div>
