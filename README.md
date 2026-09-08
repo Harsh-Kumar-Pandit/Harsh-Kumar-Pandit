@@ -1,78 +1,84 @@
-# 👋 Hey, I'm Harsh Kumar Pandit
+<div align="center">
 
-### CS Student · MERN Stack · Next.js · AI-Powered Apps · DSA Learner
+# Harsh Kumar Pandit
 
-[![GitHub followers](https://img.shields.io/github/followers/Harsh-Kumar-Pandit?style=flat&color=6e40c9&labelColor=1a1a2e)](https://github.com/Harsh-Kumar-Pandit)
-[![Profile Views](https://komarev.com/ghpvc/?username=Harsh-Kumar-Pandit&color=6e40c9&style=flat)](https://github.com/Harsh-Kumar-Pandit)
+### Full-Stack Developer · AI Integration
 
-> *"Write code like someone is going to maintain it. That someone is future you."*
+*I build products end-to-end — real APIs, real databases, real AI, real deployments.*
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-harsh.dev-6366F1?style=for-the-badge)](https://harsh.dev)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshkumarpandit2004@gmail.com)
 
-## 🚀 Featured Projects
+</div>
 
-**💬 NexChat** — Real-time chat app with DMs, group channels, file sharing & JWT auth
-[GitHub](https://github.com/Harsh-Kumar-Pandit/Nex-Chat-Real-Time-Chatting) · [Live](https://nex-chat-real-time-chatting.vercel.app/chat)
-`React` `Node.js` `Socket.io` `MongoDB` `Zustand`
+<br>
 
----
+## 🚀 Featured Work
 
-**🛒 E-Commerce Platform** — Full storefront + admin dashboard + REST API with Stripe payments
-[Frontend](https://github.com/Harsh-Kumar-Pandit/E-commerce-frontend) · [Backend](https://github.com/Harsh-Kumar-Pandit/E-commerce-backend) · [Admin](https://github.com/Harsh-Kumar-Pandit/Ecommerce-admin) · [Live](https://e-commerce-frontend-five-khaki.vercel.app/)
-`React` `Node.js` `MongoDB` `Stripe` `Cloudinary`
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+**[PulseOps](https://github.com/Harsh-Kumar-Pandit/PluseOps)**
+IT/DevOps monitoring & incident management platform. Scheduled health checks, async alert pipeline, JWT auth.
 
-**🌐 SiteForge** — *(website builder / portfolio generator)*
-[GitHub](https://github.com/Harsh-Kumar-Pandit) · [Live](#)
-`React` `Node.js` `MongoDB`
+`FastAPI` `Celery` `Redis` `PostgreSQL` `Docker`
 
----
+</td>
+<td width="33%" valign="top">
 
-**🎯 NexInterview** — *(AI-powered interview prep platform)*
-[GitHub](https://github.com/Harsh-Kumar-Pandit) · [Live](#)
-`React` `Node.js` `MongoDB`
+**[DevFlow AI](https://github.com/Harsh-Kumar-Pandit/DevFlow-AI)**
+AI-powered project management platform with a Gemini copilot woven into the workflow. [**Live →**](https://dev-flow-ai-pied.vercel.app)
 
----
+`React` `Node.js` `MongoDB` `Socket.IO` `Gemini AI`
+
+</td>
+<td width="33%" valign="top">
+
+**[NexInterview](https://github.com/Harsh-Kumar-Pandit/NexInterview)**
+Live technical interview platform — video, in-browser code execution, AI code review.
+
+`React` `Node.js` `Monaco Editor` `Stream` `Clerk`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 🛠️ Tech Stack
 
 **Languages**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+![](https://skillicons.dev/icons?i=js,ts,python,cpp,c)
 
 **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat)
+
+![](https://skillicons.dev/icons?i=react,redux,vite,tailwind,html,css)
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![](https://skillicons.dev/icons?i=nodejs,express,fastapi,socketio)
 
----
+**AI / LLM Integration**
 
+![](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![](https://img.shields.io/badge/Gemini-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white)
+![](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-> *"Every bug you fix makes you a better developer. Every bug you ship makes you humble."*
+**Database & Infra**
 
-📬 **Open to opportunities** — let's build something great together!
+![](https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,vercel)
 
-📧 [harshkumarpandit2004@gmail.com](mailto:harshkumarpandit2004@gmail.com)
+**Tools**
+
+![](https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman)
+
+<br>
+
+<div align="center">
+
+📫 **[harsh.dev](https://harsh.dev)** · **[harshkumarpandit2004@gmail.com](mailto:harshkumarpandit2004@gmail.com)**
+
+</div>
